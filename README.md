@@ -31,7 +31,7 @@
   > 30 unique avatars, 8 maps  
   > Duels, Team Duels, Boss Arena and Tournaments  
 
-- 🗡 **[Runeblade](https://discord.gg/D5uHfkua9p)** (runeblade.minehut.gg) [CEPI Network]  
+- 🗡 **[Runeblade](https://github.com/CEPI-Network/Runeblade)** (runeblade.minehut.gg) [CEPI Network]  
   
   `Released August 2023` | `Remastered July 2024`   
   
