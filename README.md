@@ -25,7 +25,7 @@
 
   `2023 - Present`
   
-  > Made alongside [Jakane](github.com/Jakanex), [savagechick3n](https://github.com/savagechick3n) and Sh0ot  
+  > Made alongside [Jakane](https://github.com/Jakanex), [savagechick3n](https://github.com/savagechick3n) and Sh0ot  
   
   > Minecraft Ability PVP server based on Super Smash Bros.  
   > 30 unique avatars, 8 maps  
@@ -44,14 +44,15 @@
 
   `Released March 2024`
   
-  > Made alongside TrulyMango and [hapily](https://github.com/hapily04)  
+  > Made alongside [TrulyMango](https://github.com/TrulyMango) and [hapily](https://github.com/hapily04)  
 
   > Magic PVP server in Minecraft  
   > 13 unique elements with 65 spells based on natural and man-made concepts  
   > Arena, Duels, PVE  
 
 - 🏰 **[Irongrave](https://discord.gg/D5uHfkua9p)** (irongrave.minehut.gg) [CEPI Network]
-  > Still under development (`2025 - est. 2026`)
+  > Still under development (`2025 - est. 2026`)   
+  > Made alongside [Appa](https://github.com/AppaYip)
 
   > Cooperative roguelike dungeon crawler in Minecraft  
   > Multi-layered, maze-like dungeon generation  
