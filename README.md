@@ -50,7 +50,7 @@
   > 13 unique elements with 65 spells based on natural and man-made concepts  
   > Arena, Duels, PVE  
 
-- 🏰 **[Irongrave](https://discord.gg/D5uHfkua9p)** (irongrave.minehut.gg) [CEPI Network]
+- 🏰 **[Irongrave](https://github.com/CEPI-Network/Irongrave)** (irongrave.minehut.gg) [CEPI Network]
   > Still under development (`2025 - est. 2026`)   
   > Made alongside [Appa](https://github.com/AppaYip)
 
