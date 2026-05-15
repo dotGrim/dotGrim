@@ -79,5 +79,3 @@
   > AvaStars, Runeblade, AntWar
 
 ---
-
-Always working on learning new things. Without improvement, what joy is there?
